@@ -1,0 +1,177 @@
+File,Classifier,Accuracy,Recall,Part
+LiftHold_LeftWrist,Random Forest,0.5425531914893617,0.6909090909090909,first_five
+LiftHold_LeftWrist,XGBoost,0.5,0.5636363636363636,first_five
+LiftHold_LeftWrist,LightGBM,0.425531914893617,0.4727272727272727,first_five
+LiftHold_LeftWrist,Ensemble,0.5,0.5740740740740741,first_five
+LiftHold_LeftWrist,Random Forest,0.5319148936170213,0.6727272727272727,rest
+LiftHold_LeftWrist,XGBoost,0.5851063829787234,0.7090909090909091,rest
+LiftHold_LeftWrist,LightGBM,0.5531914893617021,0.6181818181818182,rest
+LiftHold_LeftWrist,Ensemble,0.5,0.582089552238806,rest
+StretchHold_LeftWrist,Random Forest,0.5957446808510638,0.7454545454545455,first_five
+StretchHold_LeftWrist,XGBoost,0.5425531914893617,0.6727272727272727,first_five
+StretchHold_LeftWrist,LightGBM,0.5851063829787234,0.7090909090909091,first_five
+StretchHold_LeftWrist,Ensemble,0.5957446808510638,0.6307692307692307,first_five
+StretchHold_LeftWrist,Random Forest,0.6063829787234043,0.7818181818181819,rest
+StretchHold_LeftWrist,XGBoost,0.5106382978723404,0.6727272727272727,rest
+StretchHold_LeftWrist,LightGBM,0.5957446808510638,0.7636363636363637,rest
+StretchHold_LeftWrist,Ensemble,0.5957446808510638,0.5875,rest
+CrossArms_LeftWrist,Random Forest,0.574468085106383,0.7454545454545455,first_five
+CrossArms_LeftWrist,XGBoost,0.5319148936170213,0.6727272727272727,first_five
+CrossArms_LeftWrist,LightGBM,0.574468085106383,0.6909090909090909,first_five
+CrossArms_LeftWrist,Ensemble,0.5638297872340425,0.609375,first_five
+CrossArms_LeftWrist,Random Forest,0.48936170212765956,0.6545454545454545,rest
+CrossArms_LeftWrist,XGBoost,0.5106382978723404,0.6909090909090909,rest
+CrossArms_LeftWrist,LightGBM,0.5212765957446809,0.6727272727272727,rest
+CrossArms_LeftWrist,Ensemble,0.5638297872340425,0.5737704918032787,rest
+Entrainment_RightWrist,Random Forest,0.5531914893617021,0.7090909090909091,first_five
+Entrainment_RightWrist,XGBoost,0.574468085106383,0.6,first_five
+Entrainment_RightWrist,LightGBM,0.5957446808510638,0.6181818181818182,first_five
+Entrainment_RightWrist,Ensemble,0.5851063829787234,0.6481481481481481,first_five
+Entrainment_RightWrist,Random Forest,0.5319148936170213,0.7090909090909091,rest
+Entrainment_RightWrist,XGBoost,0.4574468085106383,0.5272727272727272,rest
+Entrainment_RightWrist,LightGBM,0.4787234042553192,0.6,rest
+Entrainment_RightWrist,Ensemble,0.5851063829787234,0.5757575757575758,rest
+PointFinger_LeftWrist,Random Forest,0.6063829787234043,0.7636363636363637,first_five
+PointFinger_LeftWrist,XGBoost,0.5851063829787234,0.6545454545454545,first_five
+PointFinger_LeftWrist,LightGBM,0.5638297872340425,0.7090909090909091,first_five
+PointFinger_LeftWrist,Ensemble,0.5957446808510638,0.639344262295082,first_five
+PointFinger_LeftWrist,Random Forest,0.5638297872340425,0.7272727272727273,rest
+PointFinger_LeftWrist,XGBoost,0.46808510638297873,0.5454545454545454,rest
+PointFinger_LeftWrist,LightGBM,0.5425531914893617,0.6545454545454545,rest
+PointFinger_LeftWrist,Ensemble,0.5957446808510638,0.546875,rest
+DrinkGlas_RightWrist,Random Forest,0.5531914893617021,0.6909090909090909,first_five
+DrinkGlas_RightWrist,XGBoost,0.5319148936170213,0.6,first_five
+DrinkGlas_RightWrist,LightGBM,0.5851063829787234,0.6909090909090909,first_five
+DrinkGlas_RightWrist,Ensemble,0.5319148936170213,0.5964912280701754,first_five
+DrinkGlas_RightWrist,Random Forest,0.6063829787234043,0.7818181818181819,rest
+DrinkGlas_RightWrist,XGBoost,0.6382978723404256,0.7272727272727273,rest
+DrinkGlas_RightWrist,LightGBM,0.5957446808510638,0.6909090909090909,rest
+DrinkGlas_RightWrist,Ensemble,0.5319148936170213,0.625,rest
+TouchIndex_RightWrist,Random Forest,0.5106382978723404,0.6545454545454545,first_five
+TouchIndex_RightWrist,XGBoost,0.4574468085106383,0.5636363636363636,first_five
+TouchIndex_RightWrist,LightGBM,0.5,0.6545454545454545,first_five
+TouchIndex_RightWrist,Ensemble,0.4787234042553192,0.55,first_five
+TouchIndex_RightWrist,Random Forest,0.5106382978723404,0.6,rest
+TouchIndex_RightWrist,XGBoost,0.5531914893617021,0.6363636363636364,rest
+TouchIndex_RightWrist,LightGBM,0.5106382978723404,0.5636363636363636,rest
+TouchIndex_RightWrist,Ensemble,0.4787234042553192,0.5846153846153846,rest
+DrinkGlas_LeftWrist,Random Forest,0.574468085106383,0.7636363636363637,first_five
+DrinkGlas_LeftWrist,XGBoost,0.574468085106383,0.7454545454545455,first_five
+DrinkGlas_LeftWrist,LightGBM,0.5957446808510638,0.7636363636363637,first_five
+DrinkGlas_LeftWrist,Ensemble,0.5851063829787234,0.6212121212121212,first_five
+DrinkGlas_LeftWrist,Random Forest,0.5531914893617021,0.6545454545454545,rest
+DrinkGlas_LeftWrist,XGBoost,0.5319148936170213,0.5636363636363636,rest
+DrinkGlas_LeftWrist,LightGBM,0.5638297872340425,0.6,rest
+DrinkGlas_LeftWrist,Ensemble,0.5851063829787234,0.6060606060606061,rest
+Relaxed_RightWrist,Random Forest,0.5638297872340425,0.8,first_five
+Relaxed_RightWrist,XGBoost,0.5531914893617021,0.7636363636363637,first_five
+Relaxed_RightWrist,LightGBM,0.5,0.7272727272727273,first_five
+Relaxed_RightWrist,Ensemble,0.5425531914893617,0.5833333333333334,first_five
+Relaxed_RightWrist,Random Forest,0.5212765957446809,0.6545454545454545,rest
+Relaxed_RightWrist,XGBoost,0.5,0.5818181818181818,rest
+Relaxed_RightWrist,LightGBM,0.4787234042553192,0.5272727272727272,rest
+Relaxed_RightWrist,Ensemble,0.5425531914893617,0.5238095238095238,rest
+PointFinger_RightWrist,Random Forest,0.5531914893617021,0.7454545454545455,first_five
+PointFinger_RightWrist,XGBoost,0.574468085106383,0.7272727272727273,first_five
+PointFinger_RightWrist,LightGBM,0.5,0.6545454545454545,first_five
+PointFinger_RightWrist,Ensemble,0.5638297872340425,0.6029411764705882,first_five
+PointFinger_RightWrist,Random Forest,0.5425531914893617,0.7636363636363637,rest
+PointFinger_RightWrist,XGBoost,0.48936170212765956,0.5818181818181818,rest
+PointFinger_RightWrist,LightGBM,0.5319148936170213,0.6545454545454545,rest
+PointFinger_RightWrist,Ensemble,0.5638297872340425,0.703125,rest
+RelaxedTask_LeftWrist,Random Forest,0.5319148936170213,0.7272727272727273,first_five
+RelaxedTask_LeftWrist,XGBoost,0.5851063829787234,0.7454545454545455,first_five
+RelaxedTask_LeftWrist,LightGBM,0.5638297872340425,0.7454545454545455,first_five
+RelaxedTask_LeftWrist,Ensemble,0.5638297872340425,0.6029411764705882,first_five
+RelaxedTask_LeftWrist,Random Forest,0.574468085106383,0.6727272727272727,rest
+RelaxedTask_LeftWrist,XGBoost,0.5531914893617021,0.6363636363636364,rest
+RelaxedTask_LeftWrist,LightGBM,0.574468085106383,0.6909090909090909,rest
+RelaxedTask_LeftWrist,Ensemble,0.5638297872340425,0.5806451612903226,rest
+Entrainment_LeftWrist,Random Forest,0.6170212765957447,0.7636363636363637,first_five
+Entrainment_LeftWrist,XGBoost,0.5957446808510638,0.6909090909090909,first_five
+Entrainment_LeftWrist,LightGBM,0.5638297872340425,0.6727272727272727,first_five
+Entrainment_LeftWrist,Ensemble,0.5957446808510638,0.6349206349206349,first_five
+Entrainment_LeftWrist,Random Forest,0.574468085106383,0.7636363636363637,rest
+Entrainment_LeftWrist,XGBoost,0.6595744680851063,0.8,rest
+Entrainment_LeftWrist,LightGBM,0.6063829787234043,0.7636363636363637,rest
+Entrainment_LeftWrist,Ensemble,0.5957446808510638,0.532258064516129,rest
+HoldWeight_LeftWrist,Random Forest,0.5,0.6545454545454545,first_five
+HoldWeight_LeftWrist,XGBoost,0.5106382978723404,0.6545454545454545,first_five
+HoldWeight_LeftWrist,LightGBM,0.5106382978723404,0.6727272727272727,first_five
+HoldWeight_LeftWrist,Ensemble,0.48936170212765956,0.5538461538461539,first_five
+HoldWeight_LeftWrist,Random Forest,0.6063829787234043,0.6909090909090909,rest
+HoldWeight_LeftWrist,XGBoost,0.5638297872340425,0.6545454545454545,rest
+HoldWeight_LeftWrist,LightGBM,0.6276595744680851,0.6909090909090909,rest
+HoldWeight_LeftWrist,Ensemble,0.48936170212765956,0.6447368421052632,rest
+Relaxed_LeftWrist,Random Forest,0.6063829787234043,0.7818181818181819,first_five
+Relaxed_LeftWrist,XGBoost,0.5638297872340425,0.6727272727272727,first_five
+Relaxed_LeftWrist,LightGBM,0.5425531914893617,0.6727272727272727,first_five
+Relaxed_LeftWrist,Ensemble,0.5957446808510638,0.6307692307692307,first_five
+Relaxed_LeftWrist,Random Forest,0.5531914893617021,0.6727272727272727,rest
+Relaxed_LeftWrist,XGBoost,0.5,0.6909090909090909,rest
+Relaxed_LeftWrist,LightGBM,0.48936170212765956,0.6545454545454545,rest
+Relaxed_LeftWrist,Ensemble,0.5957446808510638,0.5866666666666667,rest
+StretchHold_RightWrist,Random Forest,0.5531914893617021,0.6909090909090909,first_five
+StretchHold_RightWrist,XGBoost,0.5957446808510638,0.6909090909090909,first_five
+StretchHold_RightWrist,LightGBM,0.6170212765957447,0.7090909090909091,first_five
+StretchHold_RightWrist,Ensemble,0.5957446808510638,0.6440677966101694,first_five
+StretchHold_RightWrist,Random Forest,0.574468085106383,0.7272727272727273,rest
+StretchHold_RightWrist,XGBoost,0.5425531914893617,0.6363636363636364,rest
+StretchHold_RightWrist,LightGBM,0.574468085106383,0.6909090909090909,rest
+StretchHold_RightWrist,Ensemble,0.5957446808510638,0.5903614457831325,rest
+TouchNose_RightWrist,Random Forest,0.5425531914893617,0.7454545454545455,first_five
+TouchNose_RightWrist,XGBoost,0.5851063829787234,0.7818181818181819,first_five
+TouchNose_RightWrist,LightGBM,0.574468085106383,0.7454545454545455,first_five
+TouchNose_RightWrist,Ensemble,0.5531914893617021,0.5915492957746479,first_five
+TouchNose_RightWrist,Random Forest,0.5531914893617021,0.7636363636363637,rest
+TouchNose_RightWrist,XGBoost,0.48936170212765956,0.6181818181818182,rest
+TouchNose_RightWrist,LightGBM,0.5425531914893617,0.6727272727272727,rest
+TouchNose_RightWrist,Ensemble,0.5531914893617021,0.6,rest
+RelaxedTask_RightWrist,Random Forest,0.5425531914893617,0.6181818181818182,first_five
+RelaxedTask_RightWrist,XGBoost,0.5638297872340425,0.6727272727272727,first_five
+RelaxedTask_RightWrist,LightGBM,0.48936170212765956,0.6,first_five
+RelaxedTask_RightWrist,Ensemble,0.5106382978723404,0.576271186440678,first_five
+RelaxedTask_RightWrist,Random Forest,0.5531914893617021,0.7090909090909091,rest
+RelaxedTask_RightWrist,XGBoost,0.5425531914893617,0.6727272727272727,rest
+RelaxedTask_RightWrist,LightGBM,0.5957446808510638,0.7090909090909091,rest
+RelaxedTask_RightWrist,Ensemble,0.5106382978723404,0.5882352941176471,rest
+TouchNose_LeftWrist,Random Forest,0.5212765957446809,0.6727272727272727,first_five
+TouchNose_LeftWrist,XGBoost,0.5,0.6,first_five
+TouchNose_LeftWrist,LightGBM,0.4787234042553192,0.6,first_five
+TouchNose_LeftWrist,Ensemble,0.5,0.5689655172413793,first_five
+TouchNose_LeftWrist,Random Forest,0.5319148936170213,0.6727272727272727,rest
+TouchNose_LeftWrist,XGBoost,0.5106382978723404,0.6363636363636364,rest
+TouchNose_LeftWrist,LightGBM,0.5212765957446809,0.6181818181818182,rest
+TouchNose_LeftWrist,Ensemble,0.5,0.5737704918032787,rest
+HoldWeight_RightWrist,Random Forest,0.5,0.6545454545454545,first_five
+HoldWeight_RightWrist,XGBoost,0.574468085106383,0.6909090909090909,first_five
+HoldWeight_RightWrist,LightGBM,0.5638297872340425,0.6363636363636364,first_five
+HoldWeight_RightWrist,Ensemble,0.5531914893617021,0.6065573770491803,first_five
+HoldWeight_RightWrist,Random Forest,0.5319148936170213,0.6181818181818182,rest
+HoldWeight_RightWrist,XGBoost,0.48936170212765956,0.5454545454545454,rest
+HoldWeight_RightWrist,LightGBM,0.5638297872340425,0.6545454545454545,rest
+HoldWeight_RightWrist,Ensemble,0.5531914893617021,0.6440677966101694,rest
+TouchIndex_LeftWrist,Random Forest,0.6382978723404256,0.8,first_five
+TouchIndex_LeftWrist,XGBoost,0.6063829787234043,0.7272727272727273,first_five
+TouchIndex_LeftWrist,LightGBM,0.5319148936170213,0.6727272727272727,first_five
+TouchIndex_LeftWrist,Ensemble,0.574468085106383,0.6190476190476191,first_five
+TouchIndex_LeftWrist,Random Forest,0.5957446808510638,0.8,rest
+TouchIndex_LeftWrist,XGBoost,0.6276595744680851,0.7454545454545455,rest
+TouchIndex_LeftWrist,LightGBM,0.574468085106383,0.7090909090909091,rest
+TouchIndex_LeftWrist,Ensemble,0.574468085106383,0.6166666666666667,rest
+LiftHold_RightWrist,Random Forest,0.5425531914893617,0.6363636363636364,first_five
+LiftHold_RightWrist,XGBoost,0.5851063829787234,0.6545454545454545,first_five
+LiftHold_RightWrist,LightGBM,0.5425531914893617,0.5818181818181818,first_five
+LiftHold_RightWrist,Ensemble,0.5957446808510638,0.6545454545454545,first_five
+LiftHold_RightWrist,Random Forest,0.5425531914893617,0.7090909090909091,rest
+LiftHold_RightWrist,XGBoost,0.5425531914893617,0.7090909090909091,rest
+LiftHold_RightWrist,LightGBM,0.5638297872340425,0.6909090909090909,rest
+LiftHold_RightWrist,Ensemble,0.5957446808510638,0.5662650602409639,rest
+CrossArms_RightWrist,Random Forest,0.5851063829787234,0.8363636363636363,first_five
+CrossArms_RightWrist,XGBoost,0.5319148936170213,0.6727272727272727,first_five
+CrossArms_RightWrist,LightGBM,0.5212765957446809,0.7090909090909091,first_five
+CrossArms_RightWrist,Ensemble,0.5957446808510638,0.6231884057971014,first_five
+CrossArms_RightWrist,Random Forest,0.574468085106383,0.7636363636363637,rest
+CrossArms_RightWrist,XGBoost,0.5531914893617021,0.6909090909090909,rest
+CrossArms_RightWrist,LightGBM,0.5851063829787234,0.6909090909090909,rest
+CrossArms_RightWrist,Ensemble,0.5957446808510638,0.609375,rest
